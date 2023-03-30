@@ -1,0 +1,15 @@
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\bin\Debug\net7.0\MyAppProject.exe
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\bin\Debug\net7.0\MyAppProject.deps.json
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\bin\Debug\net7.0\MyAppProject.runtimeconfig.json
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\bin\Debug\net7.0\MyAppProject.dll
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\bin\Debug\net7.0\MyAppProject.pdb
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.csproj.AssemblyReference.cache
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.AssemblyInfoInputs.cache
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.AssemblyInfo.cs
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.csproj.CoreCompileInputs.cache
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.dll
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\refint\MyAppProject.dll
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.pdb
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\MyAppProject.genruntimeconfig.cache
+C:\Users\Cécilia\Desktop\MyProject\MyAppProject\obj\Debug\net7.0\ref\MyAppProject.dll
